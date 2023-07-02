@@ -7,8 +7,7 @@ This is a simple registration form project that allows users to enter their info
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-
+ 
 ## Getting Started
 
 To get a copy of this project up and running on your local machine, follow these steps:
