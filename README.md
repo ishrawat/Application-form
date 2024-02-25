@@ -12,7 +12,7 @@ This is a simple registration form project that allows users to enter their info
 
 To get a copy of this project up and running on your local machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/registration-form.git`
+1. Clone the repository: `git clone https://github.com/ishrawat/Application-form.git`
 2. Navigate to the project directory: `cd registration-form`
 3. Open the `index.html` file in your web browser.
 4. Here you go!
